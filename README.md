@@ -20,14 +20,8 @@ This repository contains a Python script that allows users to fetch historical O
 2. **Install the required packages:**
 
     ```bash
-    pip install -r requirements.txt
-    ```
+    pip install ccxt pandas
 
-    The `requirements.txt` file includes:
-
-    ```text
-    ccxt
-    pandas
     ```
 
 ## Usage
